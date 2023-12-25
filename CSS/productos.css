@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=REM:wght@300;400;600;700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    min-width: 100vh;
+    padding: 5%;
+    background-image: linear-gradient(rgb 0,8,51,0.9), (rgb 0,8,51,0.9);
+}
